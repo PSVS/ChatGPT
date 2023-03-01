@@ -19,7 +19,7 @@ import { Configuration, OpenAIApi
 
  app.get('/', async(req, res)=>{
     res.status(200).send({
-        message: 'Hello from RGUKT',
+        message: 'Hello from PSV SRINIVAS',
     })
  });
 
